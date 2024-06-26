@@ -9,6 +9,8 @@ Funcionalidades:
   
 Tecnologias utilizadas:
 - Typescript
-- React
+- ReactJs
 - TailwindCSS
 - React-Router, React-query entre outros...
+- NextJs, NodeJs
+- Shadcn UI e Radix UI
